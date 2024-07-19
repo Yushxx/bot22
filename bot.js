@@ -10,28 +10,28 @@ const botsConfig = [
         url: 'https://t.me/+nLRP43gL3k9iMTM8',
         savePath: 'https://solkah.org/melbet/index1.php',
         dataPath: 'https://solkah.org/melbet/id/data1.txt',
-        adminId: 5838829453 // Remplacez par l'ID Telegram de l'administrateur
+        adminId: 814566054 // Remplacez par l'ID Telegram de l'administrateur
     },
     {
         token: '7482988491:AAGnuBmUnmC9aXV741kEC-hquo_vYuebyjw',
         url: 'https://t.me/+rioWZrgD_F1lNTI0',
         savePath: 'https://solkah.org/melbet/index2.php',
         dataPath: 'https://solkah.org/melbet/id/data2.txt',
-        adminId: 5838829453
+        adminId: 814566054
     },
     {
         token: '6808636294:AAHSrYD-xN9OBYBKECGsrfe7YOVBtUXVnZk',
         url: 'https://t.me/+Z0Tuo_T0jVw1ODg0',
         savePath: 'https://solkah.org/melbet/index3.php',
         dataPath: 'https://solkah.org/melbet/id/data3.txt',
-        adminId: 5838829453
+        adminId: 814566054
     },
     {
         token: '7028647907:AAHicbsE2BMHN2xhwOL7nmJk7Czj9jwiJ_g',
         url: 'https://t.me/+ZX_ubOP6c9Y4YzQ0',
         savePath: 'https://solkah.org/melbet/index4.php',
         dataPath: 'https://solkah.org/melbet/id/data4.txt',
-        adminId: 5838829453
+        adminId: 814566054
     }
 ];
 
