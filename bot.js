@@ -21,7 +21,7 @@ const botsConfig = [
     },
     {
         token: '6808636294:AAHSrYD-xN9OBYBKECGsrfe7YOVBtUXVnZk',
-        url: 'https://t.me/+19xZZx2z91M2ZDM0',
+        url: 'https://t.me/+0sksMowhhacxYTdk',
         savePath: 'https://solkah.org/melbet/index3.php',
         dataPath: 'https://solkah.org/melbet/id/data3.txt',
         adminId: 814566054
