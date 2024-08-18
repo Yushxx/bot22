@@ -7,7 +7,7 @@ const http = require('http');
 const botsConfig = [
     {
         token: '7377212911:AAFg7WwqfDbKYLG8mHXajHrnbsGDFoc_uTs',
-        url: 'https://t.me/+nLRP43gL3k9iMTM8',
+        url: 'https://t.me/+syQe0gQb_uplYjJk',
         savePath: 'https://solkah.org/melbet/index1.php',
         dataPath: 'https://solkah.org/melbet/id/data1.txt',
         adminId: 814566054 // Remplacez par l'ID Telegram de l'administrateur
